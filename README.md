@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/IviGeorgiev/Automated-Formicarium/main/gallery/Formicarium1.JPG" width="400">
 
 Проектът представлява автоматизирана система, която е способна да удовлетвори най-базовите нужди на една мравчена колония.
+
 **Повече за целта на проекта** - [тук](https://github.com/IviGeorgiev/Automated-Formicarium/blob/main/Automated_Formicarium_Documentation_Ivaylo_Georgiev.pdf)
 
 ## Какви автоматизации предлага проектът?
